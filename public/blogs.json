@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "A mern stack developer and computer engineer",
+      "authorName": "Ashik khan",
+      "authorImg": "https://i.ibb.co.com/2MqTCs3/1719627361441.jpg",
+      "postDate": "2024-01-15",
+      "readingTime": 15,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "hasTag": ["React", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 2,
+      "title": "Complete Guide to Python",
+      "authorName": "Jane Smith",
+      "authorImg": "https://randomuser.me/api/portraits/women/2.jpg",
+      "postDate": "2024-02-10",
+      "readingTime": 12,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "hasTag": ["Python", "Backend", "Programming"]
+    },
+    {
+      "id": 3,
+      "title": "Advanced Node.js Techniques",
+      "authorName": "Alice Johnson",
+      "authorImg": "https://randomuser.me/api/portraits/women/3.jpg",
+      "postDate": "2024-03-20",
+      "readingTime": 18,
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "hasTag": ["Node.js", "Backend", "JavaScript"]
+    },
+    {
+      "id": 4,
+      "title": "CSS Grid and Flexbox: Layout Mastery",
+      "authorName": "Mike Brown",
+      "authorImg": "https://randomuser.me/api/portraits/men/4.jpg",
+      "postDate": "2024-04-05",
+      "readingTime": 10,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "hasTag": ["CSS", "Frontend", "Web Development"]
+    }
+  ]
+  
